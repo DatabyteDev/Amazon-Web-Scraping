@@ -1,1 +1,1 @@
-
+This Python script utilizes the BeautifulSoup library to scrape product information such as name, price, and rating from Amazon's website. It simulates a user browsing experience by sending HTTP requests and parsing the HTML content of the Amazon product pages.
